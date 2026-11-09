@@ -14,6 +14,7 @@ iOS Stash（Clash / mihomo）策略组图标。仓库内为 PNG 原文件，可�
 | <img src="icons/GrokBot-Gray.png" width="32" alt="GrokBot Gray"> | `GrokBot-Gray.png` | GrokBot（灰色备选） | [grokbot.png 灰色](https://wsrv.nl/?url=raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/grokbot.png&w=256&h=256&fit=contain&we&cbg=00000000&filt=duotone&start=8E8E93&stop=8E8E93&output=png) |
 | <img src="icons/Apple.png" width="32" alt="Apple"> | `Apple.png` | Apple | [Apple.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png) |
 | <img src="icons/Spotify.png" width="32" alt="Spotify"> | `Spotify.png` | Spotify | [spotify.png](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/spotify.png) |
+| <img src="icons/X.png" width="32" alt="X"> | `X.png` | X（推特） | [X.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/X.png) |
 | <img src="icons/China.png" width="32" alt="China"> | `China.png` | China（亦用于 TW） | [China.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png) |
 | <img src="icons/Final.png" width="32" alt="Final"> | `Final.png` | Final | [Final.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png) |
 | <img src="icons/Hong_Kong.png" width="32" alt="Hong Kong"> | `Hong_Kong.png` | HK | [Hong_Kong.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png) |
