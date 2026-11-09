@@ -20,7 +20,7 @@ iOS Stash（Clash / mihomo）策略组图标。仓库内为 PNG 原文件，可�
 | <img src="icons/Japan.png" width="32" alt="Japan"> | `Japan.png` | JP | [Japan.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png) |
 | <img src="icons/Singapore.png" width="32" alt="Singapore"> | `Singapore.png` | SG | [Singapore.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png) |
 | <img src="icons/United_States.png" width="32" alt="United States"> | `United_States.png` | US | [United_States.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png) |
-| <img src="icons/Available.png" width="32" alt="Available"> | `Available.png` | Mostly | [Available.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Available.png) |
+| <img src="icons/FallBack.png" width="32" alt="FallBack"> | `FallBack.png` | Mostly | [FallBack.png](https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/FallBack.png) |
 
 GrokBot 两张图的原图均为 [lobehub/lobe-icons `grokbot.png`](https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/grokbot.png)。`GrokBot.png` 是白底圆形版本；`GrokBot-Gray.png` 是透明底、`#8E8E93` 灰色版本。
 
@@ -48,6 +48,7 @@ icon: https://raw.githubusercontent.com/ENFP-T9/proxy-icons/main/icons/ChatGPT.p
 图标来自以下项目，版权归各自所有者。本仓库只保存副本，方便 Stash 引用：
 
 - [Koolson/Qure](https://github.com/Koolson/Qure)
+- [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts)
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons)
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale)
