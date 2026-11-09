@@ -8,13 +8,13 @@ iOS Stash（Clash / mihomo）策略组图标。仓库内为 PNG 原文件，可�
 | --- | --- | --- | --- |
 | <img src="icons/Tailscale.png" width="32" alt="Tailscale"> | `Tailscale.png` | Home | [tailscale.png](https://raw.githubusercontent.com/tailscale/tailscale/main/client/systray/tailscale.png) |
 | <img src="icons/Proxy.png" width="32" alt="Proxy"> | `Proxy.png` | Select | [Proxy.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png) |
-| <img src="icons/Surge.png" width="32" alt="Surge"> | `Surge.png` | Global | [Surge.png](https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/Surge.png) |
+| <img src="icons/Global.png" width="32" alt="Global"> | `Global.png` | Global | [Area.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png) |
 | <img src="icons/ChatGPT.png" width="32" alt="ChatGPT"> | `ChatGPT.png` | ChatGPT | [ChatGPT.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png) |
 | <img src="icons/GrokBot.png" width="32" alt="GrokBot"> | `GrokBot.png` | GrokBot（白底圆形，深色模式下可见） | [grokbot.png 白底圆形](https://wsrv.nl/?url=raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/grokbot.png&w=256&h=256&fit=contain&cbg=white&bg=white&mask=circle&output=png) |
 | <img src="icons/GrokBot-Gray.png" width="32" alt="GrokBot Gray"> | `GrokBot-Gray.png` | GrokBot（灰色备选） | [grokbot.png 灰色](https://wsrv.nl/?url=raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/grokbot.png&w=256&h=256&fit=contain&we&cbg=00000000&filt=duotone&start=8E8E93&stop=8E8E93&output=png) |
 | <img src="icons/Apple.png" width="32" alt="Apple"> | `Apple.png` | Apple | [Apple.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png) |
 | <img src="icons/Spotify.png" width="32" alt="Spotify"> | `Spotify.png` | Spotify | [spotify.png](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/spotify.png) |
-| <img src="icons/China.png" width="32" alt="China"> | `China.png` | China（亦用于 TW） | [Country-China.png](https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/icon/Country-China.png) |
+| <img src="icons/China.png" width="32" alt="China"> | `China.png` | China（亦用于 TW） | [China.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png) |
 | <img src="icons/Final.png" width="32" alt="Final"> | `Final.png` | Final | [Final.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png) |
 | <img src="icons/Hong_Kong.png" width="32" alt="Hong Kong"> | `Hong_Kong.png` | HK | [Hong_Kong.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png) |
 | <img src="icons/Japan.png" width="32" alt="Japan"> | `Japan.png` | JP | [Japan.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png) |
@@ -50,5 +50,4 @@ icon: https://raw.githubusercontent.com/ENFP-T9/proxy-icons/main/icons/ChatGPT.p
 - [Koolson/Qure](https://github.com/Koolson/Qure)
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons)
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)
-- [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale)
