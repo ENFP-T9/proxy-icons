@@ -15,6 +15,11 @@ iOS Stash（Clash / mihomo）策略组图标。仓库内为 PNG 原文件，可�
 | <img src="icons/GrokBot-Gray.png" width="32" alt="GrokBot Gray"> | `GrokBot-Gray.png` | GrokBot（灰色备选） | [grokbot.png 灰色](https://wsrv.nl/?url=raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/grokbot.png&w=256&h=256&fit=contain&we&cbg=00000000&filt=duotone&start=8E8E93&stop=8E8E93&output=png) |
 | <img src="icons/Apple.png" width="32" alt="Apple"> | `Apple.png` | Apple | [Apple.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png) |
 | <img src="icons/Spotify.png" width="32" alt="Spotify"> | `Spotify.png` | Spotify | [spotify.png](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/spotify.png) |
+| <img src="icons/PlayStation.png" width="32" alt="PlayStation"> | `PlayStation.png` | PlayStation | [PlayStation.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png) |
+| <img src="icons/Speedtest.png" width="32" alt="Speedtest"> | `Speedtest.png` | Speedtest | [ookla-speedtest.png](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/ookla-speedtest.png) |
+| <img src="icons/PikPak.png" width="32" alt="PikPak"> | `PikPak.png` | PikPak | [PikPak.png](https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/PikPak.png) |
+| <img src="icons/AppleTV.png" width="32" alt="Apple TV+"> | `AppleTV.png` | Apple TV+ | [apple-tv-plus.png](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/apple-tv-plus.png) |
+| <img src="icons/Ubisoft.png" width="32" alt="Ubisoft"> | `Ubisoft.png` | Ubisoft | [ubisoft 黑色 256×256](https://wsrv.nl/?url=cdn.simpleicons.org/ubisoft/000000&w=256&h=256&fit=contain&output=png) |
 | <img src="icons/X.png" width="32" alt="X"> | `X.png` | X（推特） | [X.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/X.png) |
 | <img src="icons/China.png" width="32" alt="China"> | `China.png` | China（亦用于 TW） | [China.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png) |
 | <img src="icons/Final.png" width="32" alt="Final"> | `Final.png` | Final | [Final.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png) |
@@ -54,4 +59,5 @@ icon: https://raw.githubusercontent.com/ENFP-T9/proxy-icons/main/icons/ChatGPT.p
 - [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts)
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons)
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale)
