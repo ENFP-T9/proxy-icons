@@ -18,7 +18,7 @@ iOS Stash（Clash / mihomo）策略组图标。仓库内为 PNG 原文件，可�
 | <img src="icons/PlayStation.png" width="32" alt="PlayStation"> | `PlayStation.png` | PlayStation | [PlayStation.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png) |
 | <img src="icons/Speedtest.png" width="32" alt="Speedtest"> | `Speedtest.png` | Speedtest | [ookla-speedtest.png](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/ookla-speedtest.png) |
 | <img src="icons/PikPak.png" width="32" alt="PikPak"> | `PikPak.png` | PikPak | [PikPak.png](https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/PikPak.png) |
-| <img src="icons/AppleTV.png" width="32" alt="Apple TV+"> | `AppleTV.png` | Apple TV+ | [apple-tv-plus.png](https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/apple-tv-plus.png) |
+| <img src="icons/AppleTV.png" width="32" alt="Apple TV+"> | `AppleTV.png` | Apple TV+ | [AppleTV.png](https://raw.githubusercontent.com/Orz-3/mini/master/Color/AppleTV.png) |
 | <img src="icons/Ubisoft.png" width="32" alt="Ubisoft"> | `Ubisoft.png` | Ubisoft | [ubisoft 黑色 256×256](https://wsrv.nl/?url=cdn.simpleicons.org/ubisoft/000000&w=256&h=256&fit=contain&output=png) |
 | <img src="icons/X.png" width="32" alt="X"> | `X.png` | X（推特） | [X.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/X.png) |
 | <img src="icons/China.png" width="32" alt="China"> | `China.png` | China（亦用于 TW） | [China.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png) |
