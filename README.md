@@ -8,6 +8,7 @@ iOS Stash（Clash / mihomo）策略组图标。仓库内为 PNG 原文件，可�
 | --- | --- | --- | --- |
 | <img src="icons/Tailscale.png" width="32" alt="Tailscale"> | `Tailscale.png` | Home | [tailscale.png](https://raw.githubusercontent.com/tailscale/tailscale/main/client/systray/tailscale.png) |
 | <img src="icons/Proxy.png" width="32" alt="Proxy"> | `Proxy.png` | Select | [Proxy.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png) |
+| <img src="icons/Amy.png" width="32" alt="Amy"> | `Amy.png` | AmyTelecom | [Amy.png](https://raw.githubusercontent.com/Orz-3/mini/master/Color/Amy.png) |
 | <img src="icons/Global.png" width="32" alt="Global"> | `Global.png` | Global | [Area.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png) |
 | <img src="icons/ChatGPT.png" width="32" alt="ChatGPT"> | `ChatGPT.png` | ChatGPT | [ChatGPT.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png) |
 | <img src="icons/GrokBot.png" width="32" alt="GrokBot"> | `GrokBot.png` | GrokBot（白底圆形，深色模式下可见） | [grokbot.png 白底圆形](https://wsrv.nl/?url=raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/grokbot.png&w=256&h=256&fit=contain&cbg=white&bg=white&mask=circle&output=png) |
@@ -49,6 +50,7 @@ icon: https://raw.githubusercontent.com/ENFP-T9/proxy-icons/main/icons/ChatGPT.p
 图标来自以下项目，版权归各自所有者。本仓库只保存副本，方便 Stash 引用：
 
 - [Koolson/Qure](https://github.com/Koolson/Qure)
+- [Orz-3/mini](https://github.com/Orz-3/mini)
 - [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts)
 - [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons)
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)
