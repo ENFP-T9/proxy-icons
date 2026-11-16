@@ -61,3 +61,17 @@ icon: https://raw.githubusercontent.com/ENFP-T9/proxy-icons/main/icons/ChatGPT.p
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale)
+
+## Surge 面板脚本
+
+`scripts/surge/home-panel.js`：外出时检查家里服务是否可达。
+
+用法示例：
+
+```
+[Script]
+home-panel = type=generic,timeout=20,script-path=https://raw.githubusercontent.com/ENFP-T9/proxy-icons/main/scripts/surge/home-panel.js,argument=policy=🏠 Home&targets=Emby|http://192.168.1.10:8096/;PVE|https://192.168.1.2:8006/
+
+[Panel]
+home-panel = script-name=home-panel,update-interval=600
+```
