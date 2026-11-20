@@ -21,6 +21,7 @@ iOS Stash（Clash / mihomo）策略组图标。仓库内为 PNG 原文件，可�
 | <img src="icons/AppleTV.png" width="32" alt="Apple TV+"> | `AppleTV.png` | Apple TV+ | [AppleTV.png](https://raw.githubusercontent.com/Orz-3/mini/master/Color/AppleTV.png) |
 | <img src="icons/Ubisoft.png" width="32" alt="Ubisoft"> | `Ubisoft.png` | Ubisoft | [ubisoft 黑色 256×256](https://wsrv.nl/?url=cdn.simpleicons.org/ubisoft/000000&w=256&h=256&fit=contain&output=png) |
 | <img src="icons/X.png" width="32" alt="X"> | `X.png` | X（推特） | [X.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/X.png) |
+| <img src="icons/Telegram.png" width="32" alt="Telegram"> | `Telegram.png` | Telegram | [Telegram.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png) |
 | <img src="icons/China.png" width="32" alt="China"> | `China.png` | China（亦用于 TW） | [China.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png) |
 | <img src="icons/Final.png" width="32" alt="Final"> | `Final.png` | Final | [Final.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png) |
 | <img src="icons/Hong_Kong.png" width="32" alt="Hong Kong"> | `Hong_Kong.png` | HK | [Hong_Kong.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png) |
