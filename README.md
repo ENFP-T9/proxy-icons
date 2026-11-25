@@ -11,6 +11,7 @@ iOS Stash（Clash / mihomo）策略组图标。仓库内为 PNG 原文件，可�
 | <img src="icons/Amy.png" width="32" alt="Amy"> | `Amy.png` | AmyTelecom | [Amy.png](https://raw.githubusercontent.com/Orz-3/mini/master/Color/Amy.png) |
 | <img src="icons/Global.png" width="32" alt="Global"> | `Global.png` | Global | [Area.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png) |
 | <img src="icons/ChatGPT.png" width="32" alt="ChatGPT"> | `ChatGPT.png` | ChatGPT | [ChatGPT.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png) |
+| <img src="icons/Claude.png" width="32" alt="Claude"> | `Claude.png` | Claude | [Claude Platform](https://platform.claude.com/docs/en/manage-claude/oauth-apps/branding-samples) |
 | <img src="icons/GrokBot.png" width="32" alt="GrokBot"> | `GrokBot.png` | GrokBot（白底圆形，深色模式下可见） | [grokbot.png 白底圆形](https://wsrv.nl/?url=raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/grokbot.png&w=256&h=256&fit=contain&cbg=white&bg=white&mask=circle&output=png) |
 | <img src="icons/GrokBot-Gray.png" width="32" alt="GrokBot Gray"> | `GrokBot-Gray.png` | GrokBot（灰色备选） | [grokbot.png 灰色](https://wsrv.nl/?url=raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/grokbot.png&w=256&h=256&fit=contain&we&cbg=00000000&filt=duotone&start=8E8E93&stop=8E8E93&output=png) |
 | <img src="icons/Apple.png" width="32" alt="Apple"> | `Apple.png` | Apple | [Apple.png](https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png) |
